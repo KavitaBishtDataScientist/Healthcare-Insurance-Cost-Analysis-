@@ -56,6 +56,11 @@ Healthcare_Insurance_EDA/
 #### • Verified categorical and numerical features
 ## Project Demo
 ![EDA Demo](Visualization/demo.gif)
+## 📊 Project Presentation
+
+Click below to view the complete PowerPoint presentation:
+
+[![View Full Presentation](https://img.shields.io/badge/View-Full%20Presentation-blue?style=for-the-badge)](https://docs.google.com/presentation/d/1U9KGLoHc4Ca0LBWznONAah1UzxWCtgiJ/edit?usp=drive_link&ouid=113945714819178391756&rtpof=true&sd=true)
 # Exploratory Data Analysis
 ## Univariate Analysis 
 
